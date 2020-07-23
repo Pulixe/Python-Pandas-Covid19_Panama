@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=vLEA8dCfusQ&t=448s
+https://www.jumpingrivers.com/blog/interactive-maps-python-covid-19-spread/
+
+instalar
+mapclassify
+
+conda install -c conda-forge mapclassify
